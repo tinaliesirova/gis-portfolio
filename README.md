@@ -19,7 +19,11 @@ This repository showcases coursework, projects, and independent work related to 
 ## Programming & Data Analysis
 - Python (e.g. pandas, GeoPandas, ArcPy, scikit-learn)
 - R / RStudio
+
+## Data Management & Databases
 - SQL (basic querying)
+- Geodatabase design and management
+- Data cleaning and validation
 
 ## Development & Analysis Environments
 - Jupyter Notebook
