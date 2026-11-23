@@ -2,7 +2,7 @@
 
 Welcome to my geospatial portfolio.
 
-I am an Environmental Scientist currently pursuing an MSc in Geography with a specialisation in GIS at Umeå University (Sweden). Building on a background in environmental research (PhD in Environmental Sciences), I am developing expertise in geospatial technologies, spatial analysis, remote sensing, and geospatial automation.
+I am an Environmental Scientist currently pursuing an MSc in Geography with a specialisation in GIS at Umeå University (Sweden). Building on a background in environmental research, I am developing expertise in geospatial technologies, spatial analysis, remote sensing, and geospatial automation.
 
 This repository showcases coursework, projects, and independent work related to GIS, geospatial data analysis, environmental data science, and geospatial workflows.
 
